@@ -2,7 +2,7 @@
   "name": "tokyo",
   "version": "1.1.9",
   "private": true,
-  "homepage": "https://equan1090.github.io/equan1090.github.io",
+  "homepage": "https://equan1090.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
