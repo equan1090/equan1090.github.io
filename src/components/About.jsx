@@ -11,28 +11,7 @@ const About = () => {
   function toggleModal() {
     setIsOpen(!isOpen);
   }
-  function calculate_age() {
-    const day = 20
-    const month = 3
-    const year = 1997
-    let today_date = new Date()
-    let today_day = today_date.getDate();
-    let today_month = today_date.getMonth();
-    let today_year = today_date.getFullYear();
 
-    let age = 0;
-
-    if (today_month > month) age = today_year - year;
-    else if (today_month === month) {
-      if(today_day >= day) age = today_year - year;
-      else age = today_year - year - 1;
-    }
-    else {
-      age = today_year = year - 1
-    }
-    return age;
-
-  }
 
 
   return (
@@ -65,16 +44,7 @@ const About = () => {
             {/* END LEFT */}
             <div className="right">
               <ul>
-                <li>
-                  <p>
-                    <span>Birthday:</span>{birthdate}
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <span>Age:</span>{calculate_age()}
-                  </p>
-                </li>
+
                 {/* <li>
                   <p>
                     <span>Address:</span>418 Peak St, Trinidad, Colorado
