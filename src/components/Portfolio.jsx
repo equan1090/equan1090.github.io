@@ -31,7 +31,7 @@ const Portfolio = () => {
             <div className="title_flex">
               <div className="left">
                 <span>Portfolio</span>
-                <h3>Minimal Portfolio</h3>
+                <h3>Projects</h3>
               </div>
             </div>
           </div>
@@ -59,7 +59,7 @@ const Portfolio = () => {
             <div className='project-container'>
               <h5>Tune Cloud</h5>
               <div className='project-img'>
-                <a href="https://tune-cloud.herokuapp.com/" target='_blank'><img src={'assets/img/site/tunecloud.png'} alt="" /></a>
+                <a href="https://tune-cloud1.herokuapp.com/" target='_blank'><img src={'assets/img/site/tunecloud1.png'} alt="" /></a>
               </div>
             </div>
           </div>
