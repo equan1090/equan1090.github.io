@@ -53,7 +53,7 @@ const Portfolio = () => {
             <div className='project-container'>
               <h5>Sorting Visualizer</h5>
               <div className='project-img'>
-                <a href="https://equan-sorting-visualizer.herokuapp.com/" target='_blank'><img src={'public/assets/img/site/sorting.png'} alt="" /></a>
+                <a href="https://equan-sorting-visualizer.herokuapp.com/" target='_blank'><img src={'assets/img/site/sorting.png'} alt="" /></a>
               </div>
             </div>
             <div className='project-container'>
