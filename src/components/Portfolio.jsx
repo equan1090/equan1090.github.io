@@ -44,18 +44,6 @@ const Portfolio = () => {
 
           <div className="portfolio_filter">
             <div className='project-container'>
-              <h5>JumpStarter</h5>
-                <div className='project-img'>
-                  <a href="https://jumpstarter-21.herokuapp.com/" target='_blank'><img src={'assets/img/site/kickstarter.png'} alt="" /></a>
-                </div>
-            </div>
-            <div className='project-container'>
-              <h5>ClipIt</h5>
-              <div className='project-img'>
-                <a href="https://clipit-june-21.herokuapp.com/" target='_blank'><img src={'assets/img/site/clipit.png'} alt="" /></a>
-              </div>
-            </div>
-            <div className='project-container'>
               <h5>Sorting Visualizer</h5>
               <div className='project-img'>
                 <a href="https://sorting-visualizer-flame.vercel.app/" target='_blank'><img src={'assets/img/site/sorting.png'} alt="" /></a>
@@ -64,7 +52,7 @@ const Portfolio = () => {
             <div className='project-container'>
               <h5>Tune Cloud</h5>
               <div className='project-img'>
-                <a href="https://tune-cloud1.herokuapp.com/" target='_blank'><img src={'assets/img/site/tunecloud1.png'} alt="" /></a>
+                <a href="https://tune-cloud.onrender.com/home" target='_blank'><img src={'assets/img/site/tunecloud1.png'} alt="" /></a>
               </div>
             </div>
           </div>
