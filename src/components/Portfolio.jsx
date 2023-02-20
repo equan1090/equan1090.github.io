@@ -60,6 +60,7 @@ const Portfolio = () => {
               <div className='project-img'>
                 <a href="https://equan-aniflix.onrender.com/" target='_blank'><img src={'assets/img/site/aniflix.png'} alt="" /></a>
               </div>
+            </div>
           </div>
         </div>
       </SimpleReactLightbox>
