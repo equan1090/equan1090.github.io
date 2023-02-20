@@ -52,9 +52,14 @@ const Portfolio = () => {
             <div className='project-container'>
               <h5>Tune Cloud</h5>
               <div className='project-img'>
-                <a href="https://tune-cloud.onrender.com/home" target='_blank'><img src={'assets/img/site/tunecloud1.png'} alt="" /></a>
+                <a href="https://tune-cloud.onrender.com/" target='_blank'><img src={'assets/img/site/tunecloud1.png'} alt="" /></a>
               </div>
             </div>
+            <div className='project-container'>
+              <h5>Aniflix</h5>
+              <div className='project-img'>
+                <a href="https://equan-aniflix.onrender.com/" target='_blank'><img src={'assets/img/site/aniflix.png'} alt="" /></a>
+              </div>
           </div>
         </div>
       </SimpleReactLightbox>
