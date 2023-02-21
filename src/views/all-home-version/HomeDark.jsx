@@ -62,9 +62,9 @@ const HomeDark = () => {
                       className="svg"
                       src="/assets/img/svg/paper.svg"
                       alt="mail"
-                      
+
                     />
-                    <a id='resume-btn' href="/assets/files/Resume.pdf" target='_blank'><span className="menu_content">Resume</span></a>
+                    <a id='resume-btn' href="/assets/files/EricQuanResume.pdf" target='_blank'><span className="menu_content">Resume</span></a>
 
                 </ul>
               </div>
